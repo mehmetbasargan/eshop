@@ -39,7 +39,7 @@ const SliderComp = () => {
     var settings = {
         dots: false,
         infinite: true,
-        autoplay: false,
+        autoplay: true,
         slidesToShow: 1,
         slidesToScroll: 1,
         arrows: true,
