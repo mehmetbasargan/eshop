@@ -78,7 +78,7 @@ const SliderComp = () => {
                         height={700}
                         className="w-full h-[700px] object-cover object-right-top"
                     />
-                    <SliderText title="Best for men" />
+                    <SliderText title="Best for women" />
                 </div>
             </Slider>
         </div>
