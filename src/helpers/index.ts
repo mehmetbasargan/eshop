@@ -18,7 +18,7 @@ export const getTrendingProducts = async () => {
     return res.json();
 };
 
-export const getSingleProduct = (_id: number) => {
+export const getSingleProudct = (_id: number) => {
     const item = productData.find((product) => product._id === _id);
     return item;
 };

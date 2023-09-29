@@ -22,7 +22,7 @@ const ProductsData = ({ item }: ItemProps) => {
 
     return (
         <div className="group relative">
-            <Link href={`/product/${item._id}`}>
+            <Link href={{ pathname: '/product', query: { _id: item?._id } }}>
                 <div className="w-full overflow-hidden cursor-pointer">
                     <Image
                         src={item.image}
