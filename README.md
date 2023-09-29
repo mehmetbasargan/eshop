@@ -26,4 +26,4 @@ Sonucu görmek için http://localhost:3000 adresini tarayıcınızla açın.
 
 ## Deploy on Vercel
 
-https://eshop-pi-beryl.vercel.app/
+https://eshop-flame-three.vercel.app/
