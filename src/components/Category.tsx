@@ -9,7 +9,7 @@ const Category = async () => {
     return (
         <div className="container mt-[100px]">
             <div className="flex flex-col items-center justify-center py-9">
-                <Title>Men's Products</Title>
+                <Title>Men&apos;s Products</Title>
                 <span>New Arrival Products.</span>
             </div>
 
